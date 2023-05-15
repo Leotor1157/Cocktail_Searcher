@@ -1,6 +1,6 @@
 # Cocktail Search
 
-Application de moteru de recherche de cocktail
+Application de moteur de recherche de cocktail
 
 ## Installation
 
